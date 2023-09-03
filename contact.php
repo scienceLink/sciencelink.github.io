@@ -24,4 +24,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Handle cases where the form is not submitted properly
     echo "Form submission error.";
 }
-?>
+?> 
